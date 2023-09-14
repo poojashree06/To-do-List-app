@@ -1,4 +1,3 @@
-import './Components/App.module.css';
 import Sidebar from './Components/Sidebar';
 import TaskContent from './Components/TaskContent';
 import TaskInfo from './Components/TaskInfo';
