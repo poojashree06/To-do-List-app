@@ -3,7 +3,7 @@ import Sidebar from './Components/Sidebar';
 import TaskContent from './Components/TaskContent';
 import TaskInfo from './Components/TaskInfo';
 
-function App() {
+export default function App() {
   return (
     <div className='row' style={{height:"100vh"}}>
       <Sidebar />
@@ -12,5 +12,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
