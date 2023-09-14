@@ -1,5 +1,5 @@
 import React from 'react'
-import Style from '../Styles/Sidebar.module.css'
+import Style from './Sidebar.module.css'
 import Button from './Button'
 export default function Sidebar() {
     return (
